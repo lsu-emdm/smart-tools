@@ -1,0 +1,71 @@
+{
+"file_metadata": {
+  "jams_version": "0.2.0",
+  "identifiers": { "filename": "Pippi.wav" },
+  "duration": 19.000000000
+},
+"annotations": [
+{
+  "namespace": "beat",
+  "annotation_metadata": {
+    "annotation_tools": "Sonic Annotator v1.4",
+    "data_source": "Automatic feature extraction",
+    "annotator": {
+      "plugin_id": "vamp:qm-vamp-plugins:qm-tempotracker",
+      "output_id": "beats",
+      "plugin_version": "6",
+      "step_size": 512,
+      "block_size": 1024,
+      "sample_rate": 44100,
+      "parameters": {
+        "alpha": 0.89999998,
+        "constraintempo": 0,
+        "dftype": 3,
+        "inputtempo": 120,
+        "method": 1,
+        "whiten": 0
+      },
+      "transform_id": "vamp:qm-vamp-plugins:qm-tempotracker:beats"
+    }
+  },
+  "data": [
+    { "time": 0.116099773, "duration": 0.0, "confidence": 1.0, "value": "114.84 bpm" },
+    { "time": 0.638548752, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 1.172607709, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 1.706666666, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 2.252335600, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 2.798004535, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 3.332063492, "duration": 0.0, "confidence": 1.0, "value": "114.84 bpm" },
+    { "time": 3.854512471, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 4.388571428, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 4.922630385, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 5.468299319, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 6.002358276, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 6.536417233, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 7.070476190, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 7.616145124, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 8.150204081, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 8.695873015, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 9.229931972, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 9.763990929, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 10.298049886, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 10.843718820, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 11.377777777, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 11.911836734, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 12.445895691, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 12.991564625, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 13.525623582, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 14.059682539, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 14.593741496, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 15.127800453, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 15.673469387, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 16.207528344, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 16.741587301, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 17.275646258, "duration": 0.0, "confidence": 1.0, "value": "112.35 bpm" },
+    { "time": 17.809705215, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 18.355374149, "duration": 0.0, "confidence": 1.0, "value": "109.96 bpm" },
+    { "time": 18.901043083, "duration": 0.0, "confidence": 1.0 }
+  ]
+}
+]
+}
