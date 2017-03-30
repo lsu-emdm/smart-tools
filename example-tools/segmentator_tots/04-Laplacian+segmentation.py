@@ -209,6 +209,10 @@ bound_times
 np.savetxt('/Users/allison/Documents/_University/Teaching/_7746 MIR & ML/In Class Patches/Segmentator_tots/14FUF2.txt', bound_times, fmt='%10.8f', delimiter=",") 
 #np.savetxt('14FUF.txt', bound_times, fmt='%10.8f', delimiter=",") 
 
+# FIXME: Fix Export
+
+# TODO: delete this comment
+
 
 # In[56]:
 

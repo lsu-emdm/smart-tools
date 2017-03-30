@@ -38,6 +38,19 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-31",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 831.0, 545.0, 155.0, 33.0 ],
+					"style" : "",
+					"text" : "FIXME: correct shell script running"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-40",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -123,7 +136,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 642.25, 811.513367, 623.5, 191.503571 ],
+					"patching_rect" : [ 642.25, 811.513367, 623.5, 623.5 ],
 					"pic" : "/Users/allison/Desktop/Screen Shot 2017-02-14 at 4.08.43 PM.png"
 				}
 
@@ -137,7 +150,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 642.25, 604.451416, 625.125, 203.763077 ],
+					"patching_rect" : [ 642.25, 604.451416, 625.125, 625.125 ],
 					"pic" : "/Users/allison/Desktop/Screen Shot 2017-02-14 at 4.08.22 PM.png"
 				}
 
@@ -486,7 +499,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 593.0, 424.5, 109.0, 35.0 ],
 					"style" : "",
-					"text" : "11842.154297 91974.21875"
+					"text" : "40333.039062 44048.234375"
 				}
 
 			}
@@ -744,8 +757,8 @@
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
-						"loopend" : [ 91974.21875, "ms" ],
-						"loopstart" : [ 11842.154297, "ms" ],
+						"loopend" : [ 44048.234375, "ms" ],
+						"loopstart" : [ 40333.039062, "ms" ],
 						"mode" : "basic",
 						"originallength" : [ 0.0, "ticks" ],
 						"originaltempo" : 120.000008,
@@ -1552,18 +1565,6 @@
 			}
 , 			{
 				"name" : "Screen Shot 2017-02-09 at 11.10.18 PM.png",
-				"bootpath" : "~/Desktop",
-				"type" : "PNG ",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Screen Shot 2017-02-14 at 4.08.22 PM.png",
-				"bootpath" : "~/Desktop",
-				"type" : "PNG ",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Screen Shot 2017-02-14 at 4.08.43 PM.png",
 				"bootpath" : "~/Desktop",
 				"type" : "PNG ",
 				"implicit" : 1
